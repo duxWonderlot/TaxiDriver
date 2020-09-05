@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d09b8edccb9089949931a80b258d1aa5, type: 3}
+  m_Name: Level10
+  m_EditorClassIdentifier: 
+  Feeding_Values_Obs:
+  - {fileID: 6540020004406183214, guid: 3136b6a93d12df849a1316dfc6c8d26b, type: 3}
+  - {fileID: 9090961509867822434, guid: d1ddbd8a13588ec4998028b8afd5bc28, type: 3}
+  - {fileID: 1247601736475418413, guid: 57b4815ad49f6a948ac2181829fd35a3, type: 3}
+  - {fileID: 7279352247340492434, guid: 65b3c1e5ca2504c459f40f6b650f5bb8, type: 3}
+  - {fileID: 4566575714266776172, guid: 2b1f8de3fa2c9364499c0e11a18bfdd9, type: 3}
+  Emplty_obs_Spawn:
+  - {fileID: 9161004253640013679, guid: b62f84b711c52f14c8e95048cb2ad762, type: 3}
+  - {fileID: 6134831797861160704, guid: 8cac41c6132788343ac512dd36f74671, type: 3}
+  - {fileID: 1832367010455091587, guid: db480696d5285f84f9bdf546555ad8d2, type: 3}
+  - {fileID: 3510643086751151631, guid: 11272b0cde3467f47919390a638e2780, type: 3}
+  - {fileID: 7390025481203160983, guid: 43534fb04747b3d44907ee81650a8eef, type: 3}
+  Vechicals_count: 3
+  Passenger_count: 1
+  value: {r: 0.41568628, g: 0.8392157, b: 0.7839252, a: 0}
